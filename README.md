@@ -1,1 +1,1 @@
-# My New Project
+Dinoplasty Week 2 Homework project
